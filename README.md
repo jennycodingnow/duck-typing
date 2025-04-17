@@ -1,5 +1,7 @@
 # Duck Typing
 
+# testing github PAT
+
 Small repository demonstrating how duck typing in python allows modules to work work with instances without needing to import.
 
 ## One-Time Setup
@@ -12,7 +14,7 @@ Follow these directions once, when retrieving this repository.
 $ cd ~/Developer/projects
 ```
 
-2. In Github click on the "Fork" button in github and fork the repository to your Github account.  This will make a copy of the repository in your github account. 
+2. In Github click on the "Fork" button in github and fork the repository to your Github account. This will make a copy of the repository in your github account.
 
 ![Fork Button](images/fork.png)
 
@@ -34,9 +36,9 @@ $ cd duck-typing
 
 Summary of one-time repository setup:
 
-- [ ] `cd` into your `projects` folder
-- [ ] Clone the repository onto your machine
-- [ ] `cd` into the `duck-typing` folder
+-   [ ] `cd` into your `projects` folder
+-   [ ] Clone the repository onto your machine
+-   [ ] `cd` into the `duck-typing` folder
 
 ## Running the example
 
